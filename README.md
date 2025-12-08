@@ -67,7 +67,3 @@ Each file is hashed using SHA-1, and commits are stored as JSON objects containi
 - [chalk](https://www.npmjs.com/package/chalk) - Terminal styling
 - [commander](https://www.npmjs.com/package/commander) - CLI framework
 - [diff](https://www.npmjs.com/package/diff) - Text diffing
-
-## License
-
-MIT
